@@ -10,4 +10,4 @@ spring:
 mybatis:
   mapper-locations: classpath:mapping/*.xml
   type-aliases-package: com.yd.taozi.pojo
-myname: taozi-桃子再给老子不出来
+myname: taozibsdfhsdhiusdgui
